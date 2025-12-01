@@ -1,0 +1,5 @@
+{
+  "name": "LogicLab",
+  "description": "A comprehensive digital logic design suite featuring Truth Table generation, K-Map minimization, Boolean Algebra simplification, and dynamic logic circuit visualization.",
+  "requestFramePermissions": []
+}
